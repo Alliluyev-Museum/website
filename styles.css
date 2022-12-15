@@ -218,8 +218,8 @@ Alliluevs text decoration
     background-color: #fff;
     z-index: 1;
     width: 100%;
-    max-width: 1300px;
     padding: 0 50px;
+    max-width: 1300px;
 }
 
 .main__content h1 {
@@ -300,6 +300,9 @@ Alliluevs text decoration
 #main__img {
     height: 80%;
     width: 80%;
+
+    background: linear-gradient(to right, rgba(9, 5, 47, .85) 0%, rgba(49, 29, 94, .85) 100%);
+
 }
 
 /* Mobile Responsive */
