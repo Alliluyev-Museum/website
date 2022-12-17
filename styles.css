@@ -361,18 +361,16 @@ Alliluevs text decoration
 /* Services Section CSS */
 
 .services {
-    background: #fff;
+    margin-top: 50px;
+    background: #3f3d39;
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 205vh;
+    height: 220vh;
 }
 
 .services h1 {
-    background-color: #3f3d39;
-    background-image: linear-gradient(to right, #3f3d39 0%, 
-    #3f3d39 0%, #3f3d39 21%, #3f3d39 52%, #3f3d39 78%, 
-    #3f3d39 100%);
+    background-color: #fff;
     background-size: 100%;
     margin-bottom: 2rem;
     font-size: 2.5rem;
@@ -499,7 +497,7 @@ Alliluevs text decoration
 
 .footer__container {
     background-color: #fff;
-    margin-top: 5rem;
+    margin-top: 2.5rem;
     margin-bottom: 2rem;
     display: flex;
     flex-direction: column;
